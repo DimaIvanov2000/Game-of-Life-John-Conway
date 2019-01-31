@@ -48,9 +48,9 @@ The math behind the game has been investigated with surprising results though it
 
 ### Controls
 
-  ^        Ww  
-<   >   Aa    Dd  - Move Cursor  
-  v        Ss  
+	  ^        Ww  
+	<   >   Aa    Dd  - Move Cursor  
+	  v        Ss  
 	Space - Toggle Tile Status  
 	   Ee - Toggle Edit Mode (Deactivate Cursor)  
         Enter - Progress Board Once  
@@ -58,3 +58,7 @@ The math behind the game has been investigated with surprising results though it
 	   Rr - Randomize Board  
 	   Cc - Clear Board  
 	   Tt - Toggle Cinematic Mode, Plays automatically until next key hit  
+	 
+### Examples
+
+Further examples may be found in the C file header.
